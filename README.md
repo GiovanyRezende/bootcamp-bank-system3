@@ -1,4 +1,4 @@
-# Bank System in Python with OOP in SQL database
+# Python Bank System with OOP in SQL database
 *This is a challenge of Data Engineering NTT DATA Bootcamp in [DIO](https://web.dio.me/).* It consists in a bank system based in five operations: withdraw money, deposit money, see account statement, register user and register account; using OOP in a SQL database. The project also considers the currency as the brazilian one (Real).
 
 # The Libraries
